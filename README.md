@@ -1,43 +1,22 @@
-# Hi, I’m Nicholas 👋
+# Hi, I’m Nicholas Bennett 👋
 
-### The person behind [Big Friendly Function](https://www.bigfriendlyfunction.com/).
+**Good with code. Even better with people.**
 
-I build websites and custom tools that make complicated tasks easier. I’m a frontend developer working in cybersecurity, with projects spanning interactive graphics, data analysis, and music software.
+I’m a Baltimore-based technical problem solver with a background in software engineering, cybersecurity, and 16 years of helping people navigate technology.
 
-I also make room for playful experiments and delightfully unnecessary apps.
+At CyberMaxx, I built security operations interfaces and customer reporting, partnering with Customer Success Managers to investigate escalations and turn client feedback into product improvements. Now I’m moving into **Customer Success Management in cybersecurity and technical SaaS**—bringing technical depth, clear communication, and a habit of following through.
 
-**[Portfolio](https://www.bigfriendlyfunction.com/) · [Email me](mailto:nicholas@bigfriendlyfunction.com) · [LinkedIn](https://www.linkedin.com/in/nicholasrrbennett/)**
+I’m looking for a full-time opportunity. Referrals and a friendly conversation are welcome.
 
-## Work with me
+**[Portfolio](https://nicholasbennett.work/) · [Email me](mailto:nicholas@nicholasbennett.work) · [LinkedIn](https://www.linkedin.com/in/nicholasrrbennett/)**
 
-Available for scoped freelance projects:
+## Things I’ve built
 
-- **Website launches and refreshes:** responsive sites with a distinctive identity and useful integrations.
-- **App improvements:** interface polish, bug fixes, and new features in existing products.
-- **Custom workflow tools:** turn repetitive processing and spreadsheet tasks into software people can use.
+- **[MITRE ATT&CK Flashcards](https://github.com/nrrb/mitre-flash-cards):** An independent learning app for exploring ATT&CK techniques, security events, and threat detection concepts.
+- **[Tiny Goose Club](https://tinygoose.club/):** A biweekly public creative meetup in Baltimore that I organize and host, with a website I built to help people join.
+- **[Medium Talk](https://github.com/nrrb/mediumtalk):** A conversation app built for a public picnic I organized, helping strangers get to know one another.
+- **[RekordBox Bass Notes](https://github.com/nrrb/rekordbox-bass-notes):** A music analysis tool that writes bass characteristics into RekordBox to help DJs find tracks with strong low-end energy.
 
-Have something awkward, unfinished, or repetitive? [Tell me about it.](mailto:nicholas@bigfriendlyfunction.com)
+**Tools I use:** Vue, React, TypeScript, Python, Django, SQL, and Rust. Cybersecurity experience includes Elastic, Devo, AlienVault USM, and MITRE ATT&CK.
 
-## Selected projects
-
-| Project | What it does |
-| :--- | :--- |
-| **[OG Blacman](https://github.com/nrrb/ogblacman)** | An artist website with dedicated desktop and mobile experiences. [Visit the site ↗](https://www.ogblacman.com/) |
-| **[Medium Talk](https://github.com/nrrb/mediumtalk)** | A conversation app I built for a public picnic I hosted through Meetup in a Baltimore park, helping strangers get to know one another. [Try it ↗](https://mediumtalk.org/) |
-| **[Kellogg Board Fellows Matcher](https://github.com/nrrb/internship-matcher)** | A tool I originally built for matching fellows to placements using ranked preferences. The linked repository is a fork of the organization’s project. |
-| **[Poster Slicer](https://github.com/nrrb/poster-slicer)** | Turn an image into a larger poster printed across ordinary sheets of paper. [Try it ↗](https://nrrb.github.io/poster-slicer/) |
-| **[Rekordbox Bass Notes](https://github.com/nrrb/rekordbox-bass-notes)** | Profiles the bass characteristics of music and writes the results directly into the Rekordbox database, helping DJs identify tracks with strong low-end energy within their existing workflow. |
-| **[Dancefloor Bass Analyzer](https://github.com/nrrb/music-energy-analyzer)** | A desktop app for exploring the low-frequency characteristics of a DJ’s music library. Built with React and Rust; in development. |
-
-## Tools I reach for
-
-**Interfaces:** Vue, React, TypeScript, JavaScript, HTML, CSS  
-**Data and custom tooling:** Python, Rust, SQL  
-**Creative work:** Canvas, SVG, audio analysis  
-**Agentic tools:** Claude Code, ChatGPT Codex, using test-driven development (TDD)
-
-## A little more about me
-
-Based in Baltimore. Into techno, creative coding, and making useful things for people.
-
-6′6″, left-handed, and always interested in collaborating on the silliest of silly apps. 🪿
+Outside work: techno, creative coding, and delightfully unnecessary apps. 6′6″, left-handed, and always up for making something silly. 🪿
