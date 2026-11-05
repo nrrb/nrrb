@@ -4,7 +4,7 @@
 
 I’m a Baltimore-based technical problem solver with a background in software engineering, cybersecurity, and 16 years of helping people navigate technology.
 
-At CyberMaxx, I built security operations interfaces and customer reporting, partnering with Customer Success Managers to investigate escalations and turn client feedback into product improvements. Now I’m moving into **Customer Success Management in cybersecurity and technical SaaS**—bringing technical depth, clear communication, and a habit of following through.
+At CyberMaxx, I built security operations interfaces and customer reporting, partnering with Customer Success Managers to investigate escalations and turn client feedback into product improvements. Now I’m moving into **Customer Success Management in cybersecurity and technical SaaS** - bringing technical depth, clear communication, and a habit of shipping products.
 
 I’m looking for a full-time opportunity. Referrals and a friendly conversation are welcome.
 
